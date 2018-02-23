@@ -11,12 +11,16 @@ A glossary of terms related to music theory
 ## C
  - Cell
  - Chaconne
+ - Circle of fifths
  - Clave
  - Colotomy
+ - Comma
+ - Consonance
  - Counter-melody
 
 ## D
  - Dissonance
+ - Dyad
 
 ## E
 
@@ -33,6 +37,7 @@ A glossary of terms related to music theory
  - Grace note
 
 ## H
+ - Harmonic series
  - Hauptstimme
  - Hocket
 
@@ -42,6 +47,7 @@ A glossary of terms related to music theory
  - Isorhythm
 
 ## J
+ - Just intonation
 
 ## K
  - Klang
@@ -53,6 +59,8 @@ A glossary of terms related to music theory
 ## M
  - Melodic figure
  - Melodic fission
+ - Meantone temperament
+ - Miracle temperament
  - Motif
 
 ## N
@@ -66,17 +74,21 @@ A glossary of terms related to music theory
  - Pedal point
  - Pedal tone
  - Polyphonic strumming
+ - Pythagorean tuning
 
 ## Q
 
 ## R
+ - Regular temperament
  - Rhythmic cell
  
 ## S
  - Schenkerian analysis
+ - Schismatic temperament
  - Sequence
  
 ## T
+ - Tonnetz
 
 ## U
 
